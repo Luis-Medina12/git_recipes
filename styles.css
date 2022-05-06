@@ -1,0 +1,35 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    align-items: center;
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titleText {
+    text-align: center;
+}
+
+.sectionTitle {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+* {
+    background-color: wheat;
+
+}
+
+li {
+    color: black;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+#description {
+    font-size: large;
+}
